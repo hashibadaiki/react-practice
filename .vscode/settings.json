@@ -1,0 +1,22 @@
+{
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.dragAndDrop": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "editor.showFoldingControls": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?　、。！？「」【】『』（）",
+  "editor.wordWrap": "on",
+  "explorer.incrementalNaming": "smart",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "search.showLineNumbers": true,
+  "terminal.integrated.confirmOnExit": "always",
+  "terminal.integrated.copyOnSelection": true,
+  "workbench.editor.tabSizing": "fit",
+  "workbench.startupEditor": "readme"
+}
